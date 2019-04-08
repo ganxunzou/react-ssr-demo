@@ -1,0 +1,10 @@
+.DS_Store
+.cache
+*.log
+*.bak
+coverage
+dist
+dist*
+node_modules
+node_modules_bak*
+
